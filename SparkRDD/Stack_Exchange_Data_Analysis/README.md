@@ -10,8 +10,9 @@ program to solve below mentioned problems.
 
 Sample Post Data:
 
-<row Id="41" PostTypeId="1" AcceptedAnswerId="44" CreationDate="2014-05-14T11:15:40.907" Score="28" 
-ViewCount="1897" Body="&lt;p&gt;R has many libraries which are aimed at Data Analysis (e.g. JAGS, BUGS, ARULES etc..),and is mentioned in popular textbooks such as: J.Krusche, Doing Bayesian Data Analysis; B.Lantz, &quot;Machine Learning with R&quot;.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;I've seen a guideline of 5TB for a dataset to be considered as Big Data.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;My question is: Is R suitable for the amount of Data typically seen in Big Data problems? &#xA;Are there strategies to be employed when using R with this size of dataset?&lt;/p&gt;&#xA;" OwnerUserId="136" LastEditorUserId="118" LastEditDate="2014-05-14T13:06:28.407" LastActivityDate="2015-04-12T05:00:23.663" Title="Is the R language suitable for Big Data" Tags="&lt;bigdata&gt;&lt;r&gt;" AnswerCount="8" CommentCount="1" FavoriteCount="13" />
+"""<row Id="41" PostTypeId="1" AcceptedAnswerId="44" CreationDate="2014-05-14T11:15:40.907" Score="28" 
+ViewCount="1897" Body="&lt;p&gt;R has many libraries which are aimed at Data Analysis (e.g. JAGS, BUGS, ARULES etc..),and is mentioned in popular textbooks such as: J.Krusche, Doing Bayesian Data Analysis; B.Lantz, &quot;Machine Learning with R&quot;.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;I've seen a guideline of 5TB for a dataset to be considered as Big Data.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;My question is: Is R suitable for the amount of Data typically seen in Big Data problems? &#xA;Are there strategies to be employed when using R with this size of dataset?&lt;/p&gt;&#xA;" OwnerUserId="136" LastEditorUserId="118" LastEditDate="2014-05-14T13:06:28.407" LastActivityDate="2015-04-12T05:00:23.663" Title="Is the R language suitable for Big Data" Tags="&lt;bigdata&gt;&lt;r&gt;" AnswerCount="8" CommentCount="1" FavoriteCount="13" />"""
+
 
 Format of Posts Data:
 
