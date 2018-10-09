@@ -9,7 +9,7 @@ solve the problem statement listed in KPIs sections
 
 Sample Data
 
-11001^1^100^2015-06-05 22:35:21.543^<d><nv n="ExtStationID" v="Station/FYI Television, Inc./25102" /><nv n="MediaDesc" v="19b8f4c0-92ce-44a7-a403-df4ee413aca9" /><nv n="ChannelNumber" v="1366" /><nv n="Duration" v="24375" /><nv n="IsTunedToService" v="True" /><nv n="StreamSelection" v="FULLSCREEN_PRIMARY" /><nv n="ChannelType" v="LiveTVMediaChannel" /><nv n="TuneID" v="636007629215440000" /></d>^0122648d-4352-4eec-9327-effae0c34ef2^2016060601
+11001^1^100^2015-06-05 22:35:21.543^\<d><nv n="ExtStationID" v="Station/FYI Television, Inc./25102" /><nv n="MediaDesc" v="19b8f4c0-92ce-44a7-a403-df4ee413aca9" /><nv n="ChannelNumber" v="1366" /><nv n="Duration" v="24375" /><nv n="IsTunedToService" v="True" /><nv n="StreamSelection" v="FULLSCREEN_PRIMARY" /><nv n="ChannelType" v="LiveTVMediaChannel" /><nv n="TuneID" v="636007629215440000" /></d>^0122648d-4352-4eec-9327-effae0c34ef2^2016060601
 
 Format of Posts Data
  Server-Unique-Id
