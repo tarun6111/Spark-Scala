@@ -1,4 +1,4 @@
-Problem Statements: World Bank Data Analysis
+Problem Statement: World Bank Data Analysis
 
 Introduction:
 World Bank has released its data dump regarding population, health, internet, GDP, etc. 
@@ -28,6 +28,7 @@ Format of Data:
  Finance: GDP per capita (current US$)
 
 Sample Data
+
 Afghanistan,7/1/2000,0,,0,,151,11,8,"25,950,816","5,527,524",51,45,45,45,48,50,2,,
 Afghanistan,7/1/2001,0,,0,0,150,11,9,"26,697,430","5,771,984",50,46,45,46,48,50,2,"2,461,666,315",92
 Afghanistan,7/1/2002,0,,"25,000",0,150,22,7,"27,465,525","6,025,936",49,46,46,46,48,50,2,"4,338,907,579",158
